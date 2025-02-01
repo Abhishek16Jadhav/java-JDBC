@@ -1,0 +1,17 @@
+@charset "UTF-8";
+body {
+            height: 100vh; /* Full viewport height */
+            margin: 0; /* Remove default margin */
+            display: flex; /* Use flexbox layout */
+            justify-content: center; /* Center content horizontally */
+            align-items: flex-start; /* Align items at the top (vertically) */
+            font-family: Arial, sans-serif; /* Optional: change font */
+            background-color: #f0f0f0; /* Optional: background color */
+        }
+
+        /* Style for the <h1> element */
+        h1 {
+            text-align: center; /* Center the text horizontally */
+            font-size: 2em; /* Optional: adjust font size */
+            margin-top: 20px; /* Optional: add some top margin */
+        }
